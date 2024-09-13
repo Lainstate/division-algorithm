@@ -41,7 +41,7 @@ The program divides the input number by 2 in each step. The sum of these divisio
     Sum of divisions: 1.618000000000
     Original number: 1.618000000000
     The sum of divisions equals the original number.
-    
+
 ## Example
 For the input 1.618, the output would look like this:
 ```bash
@@ -51,6 +51,10 @@ Step 1: 0.809000000000
 Step 2: 0.404500000000
 Step 3: 0.202250000000
 ...
+Step 38: 0.000000000006
+Step 39: 0.000000000003
+Step 40: 0.000000000001
+Step 41: 0.000000000001
 
 Sum of divisions: 1.618000000000
 Original number: 1.618000000000
