@@ -1,4 +1,4 @@
-# Divide Until Sum Equals Original
+# Recursive Halver
 
 This Go program takes a floating-point number as input and performs iterative halving of the number until the sum of the divisions equals the original number, accounting for floating-point precision limitations.
 
