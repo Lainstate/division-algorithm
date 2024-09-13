@@ -31,19 +31,17 @@ The program divides the input number by 2 in each step. The sum of these divisio
    ```bash
    Enter a number (can be decimal): 1.618
 5. The program will output the series of divisions, the sum of the divisions, and the original number:
-```bash
-Divisions:
-Step 1: 0.809000000000
-Step 2: 0.404500000000
-Step 3: 0.202250000000
-...
+    ```bash
+    Divisions:
+    Step 1: 0.809000000000
+    Step 2: 0.404500000000
+    Step 3: 0.202250000000
+    ...
 
-Sum of divisions: 1.618000000000
-Original number: 1.618000000000
-The sum of divisions equals the original number.
+    Sum of divisions: 1.618000000000
+    Original number: 1.618000000000
+    The sum of divisions equals the original number.
 
-## Example
-For the input 1.618, the output would look like this:
 ```bash
 Enter a number (can be decimal): 1.618
 Divisions:
@@ -55,3 +53,4 @@ Step 3: 0.202250000000
 Sum of divisions: 1.618000000000
 Original number: 1.618000000000
 The sum of divisions equals the original number.
+
