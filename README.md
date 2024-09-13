@@ -31,8 +31,8 @@ The program divides the input number by 2 in each step. The sum of these divisio
    ```bash
    Enter a number (can be decimal): 1.618
 5. The program will output the series of divisions, the sum of the divisions, and the original number:
-   ```bash
-   Divisions:
+```bash
+Divisions:
 Step 1: 0.809000000000
 Step 2: 0.404500000000
 Step 3: 0.202250000000
